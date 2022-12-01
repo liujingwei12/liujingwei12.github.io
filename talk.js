@@ -9,7 +9,7 @@ $(function() {
         });
     });
     $('#no').click(function(event) {
-        modal('不，你愿意！', J);
+        modal('不，你想！', J);
     });
 });
 
